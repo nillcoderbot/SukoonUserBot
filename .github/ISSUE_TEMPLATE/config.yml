@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Ultroid Support
-    url: https://t.me/UltroidSupportChat
+  - name: Sukoon Support
+    url: https://telegram.me/nillcoderbot 
     about: Please drop your doubts or queries there for an immediate response.
   - name: Documentation
-    url: https://ultroid.tech/
+    url: https://telegram.me/nillcoder
     about: Basic documentation for setting up.
