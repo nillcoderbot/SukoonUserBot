@@ -10,35 +10,35 @@ import re
 from . import *
 
 STRINGS = {
-    1: """🎇 **Thanks for Deploying Ultroid Userbot!**
+    1: """🎇 **Thanks for Deploying Sukoon Userbot!**
 
 • Here, are the Some Basic stuff from, where you can Know, about its Usage.""",
-    2: """🎉** About Ultroid**
+    2: """🎉** About Sukoon**
 
 🧿 Ultroid is Pluggable and powerful Telethon Userbot, made in Python from Scratch. It is Aimed to Increase Security along with Addition of Other Useful Features.
 
-❣ Made by **@TeamUltroid**""",
+❣ Made by **@Nillcoderbot**""",
     3: """**💡• FAQs •**
 
--> [Username Tracker](https://t.me/UltroidUpdates/24)
--> [Keeping Custom Addons Repo](https://t.me/UltroidUpdates/28)
--> [Disabling Deploy message](https://t.me/UltroidUpdates/27)
--> [Setting up TimeZone](https://t.me/UltroidUpdates/22)
--> [About Inline PmPermit](https://t.me/UltroidUpdates/21)
--> [About Dual Mode](https://t.me/UltroidUpdates/18)
--> [Custom Thumbnail](https://t.me/UltroidUpdates/13)
--> [About FullSudo](https://t.me/UltroidUpdates/11)
--> [Setting Up PmBot](https://t.me/UltroidUpdates/2)
--> [Also Check](https://t.me/UltroidUpdates/14)
+-> [Username Tracker](https://t.me/SukoonUserBot/7)
+-> [Keeping Custom Addons Repo](https://t.me/SukoonUserBot/6)
+-> [Disabling Deploy message](https://t.me/SukoonUserBot/8)
+-> [Setting up TimeZone](https://t.me/SukoonUserBot/9)
+-> [About Inline PmPermit](https://t.me/SukoonUserBot/10)
+-> [About Dual Mode](https://t.me/SukoonUserBot/11)
+-> [Custom Thumbnail](https://t.me/SukoonUserBot/12)
+-> [About FullSudo](https://t.me/SukoonUserBot/13)
+-> [Setting Up PmBot](https://t.me/SukoonUserBot/2)
+-> [Also Check](https://t.me/SukoonUserBot/14)
 
 **• To Know About Updates**
-  - Join @TeamUltroid.""",
+  - Join @Nillcoderbot.""",
     4: f"""• `To Know All Available Commands`
 
   - `{HNDLR}help`
   - `{HNDLR}cmds`""",
     5: """• **For Any Other Query or Suggestion**
-  - Move to **@UltroidSupportChat**.
+  - Move to **@night_talks_m **.
 
 • Thanks for Reaching till END.""",
 }
